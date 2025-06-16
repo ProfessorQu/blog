@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Mistborn: The Alloy of Law'
 categories:
 - Book

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Beetlejuice Beetlejuice
 categories:
 - Movie

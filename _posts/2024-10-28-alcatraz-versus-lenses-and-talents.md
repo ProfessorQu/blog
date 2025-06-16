@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Alcatraz versus ... - Lenses and Talents
 categories:
 - Book

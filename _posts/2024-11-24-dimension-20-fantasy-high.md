@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Dimension 20: Fantasy High'
 categories:
 - Web Series

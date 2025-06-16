@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Mistborn: The Hero of Ages'
 categories:
 - Book

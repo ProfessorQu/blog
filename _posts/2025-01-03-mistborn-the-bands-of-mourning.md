@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Mistborn: The Bands of Mourning'
 categories:
 - Book

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 1 Card Blind Analysis
 categories:
 - Magic the Gathering

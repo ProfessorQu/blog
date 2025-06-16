@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Creating a Blog
 categories:
 - Technical

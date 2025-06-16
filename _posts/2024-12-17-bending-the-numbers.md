@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Bending the Numbers: A Statistical Look at <i>Avatar: The Last Airbender</i>'
 categories:
 - Series

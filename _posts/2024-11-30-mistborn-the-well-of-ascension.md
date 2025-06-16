@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Mistborn: The Well of Ascension'
 categories:
 - Book

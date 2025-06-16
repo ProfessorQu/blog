@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Bastille versus the Evil Librarians
 categories:
 - Book

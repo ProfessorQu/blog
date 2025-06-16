@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Mistborn: Shadows of Self'
 categories:
 - Book

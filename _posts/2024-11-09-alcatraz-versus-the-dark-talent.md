@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Alcatraz versus the Dark Talent
 categories:
 - Book

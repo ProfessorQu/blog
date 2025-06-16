@@ -1,5 +1,4 @@
 ---
-layout: post
 title: One billion lions vs. one of every Pokémon
 categories:
 - Internet arguments

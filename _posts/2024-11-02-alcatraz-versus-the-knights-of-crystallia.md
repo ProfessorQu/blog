@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Alcatraz versus the Knights of Crystallia
 categories:
 - Book

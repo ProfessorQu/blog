@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Commander without Color Identities
 categories:
 - Magic the Gathering

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tic Tac Generator
 categories:
 - Technical

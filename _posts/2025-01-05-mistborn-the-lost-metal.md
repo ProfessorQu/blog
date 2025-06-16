@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Mistborn: The Lost Metal'
 categories:
 - Book

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Commander Combinatorics: Counting the Deck Possibilities'
 categories:
 - Magic the Gathering

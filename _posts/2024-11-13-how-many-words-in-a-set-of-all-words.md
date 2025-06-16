@@ -1,5 +1,4 @@
 ---
-layout: post
 title: How many words in a set of all words?
 categories:
 - Math

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Alcatraz versus the Scrivener's Bones
 categories:
 - Book
