@@ -494,3 +494,54 @@ h4 {
     scroll-margin-top: 2rem;
   }
 }
+
+/* --- Cards Container --- */
+.cards-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.2rem;
+}
+
+.cards-container a {
+  flex: 1 1 24%; /* About 4 in a row at large sizes */
+  max-width: 50%;
+}
+
+.cards-container img {
+  border-radius: 5%;
+}
+
+@media (max-width: 1000px) {
+  .cards-container a {
+    flex: 1 1 48%; /* Two in a row */
+    max-width: 75%;
+  }
+}
+
+/* Small screens (1 per row) */
+@media (max-width: 500px) {
+  .cards-container a {
+    flex: 1 1 96%;
+    max-width: 96%;
+  }
+}
+
+.card-link {
+  position: relative;
+  display: inline-block;
+}
+
+.card-link img {
+  border-radius: 5%;
+  position: absolute;
+  pointer-events: none;
+  display: none;
+  transition: none;
+  min-width: 200px;
+  z-index: 999;
+}
+
+.card-link:hover img {
+  display: block;
+}
