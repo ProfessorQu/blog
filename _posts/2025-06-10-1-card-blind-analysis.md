@@ -22,12 +22,12 @@ We will look at both cards to see what happens if one goes first or second. The 
 
 ## Big Creatures
 
-<div style="width: 100%;display:flex">
-  <img src="https://cards.scryfall.io/large/front/d/4/d497a5a3-65fb-4c12-b3f2-8ce4cf4e0f6f.jpg?1562866889" style="border-radius:5%" alt="Phage, the Untouchable">
-  <img src="https://cards.scryfall.io/large/front/1/8/18adbda4-8d36-47cd-afbc-c785aaa8ed80.jpg?1599708735" style="border-radius:5%" alt="Blightsteel Colossus">
-  <img src="https://cards.scryfall.io/large/front/c/7/c74ae706-b3b3-4097-a387-6f6c38a9b603.jpg?1689995438" style="border-radius:5%" alt="Ulamog, the Ceaseless Hunger">
-  <img src="https://cards.scryfall.io/large/front/2/4/249db4d4-2542-47ee-a216-e13ffbc2319c.jpg?1673146896" style="border-radius:5%" alt="Emrakul, the Aeons Torn">
-</div>
+{% cards %}
+![Phage, the Untouchable]
+![Blightsteel Colossus]
+![Ulamog, the Ceaseless Hunger]
+![Emrakul, the Aeons Torn]
+{% endcards %}
 
 One way to win in this format is by, well, attacking with a [big creature](#big-creatures). One of those big creatures is [**Phage, the Untouchable**](https://scryfall.com/card/cns/120/phage-the-untouchable), which kills a player when it hits it. This creature is easily countered by any indestructible creature, like [**Blightsteel Colossus**](https://scryfall.com/card/2xm/235/blightsteel-colossus)! This kills the **Phage** player easily. One way to kill the **Blightsteel Colossus** is to exile it with [**Ulamog, the Ceaseless Hunger**](https://scryfall.com/card/cmm/5/ulamog-the-ceaseless-hunger). Or, alternatively, it is sacrificed by [**Emrakul, the Aeons Torn**](https://scryfall.com/card/2x2/1/emrakul-the-aeons-torn). I'm pretty sure that of these four cards, **Emrakul** wins all of the match ups.
 
