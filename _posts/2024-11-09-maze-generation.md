@@ -10,7 +10,8 @@ tags:
 - Mazes
 description: Some maze generation algorithms
 image:
-  path: "/assets/img/posts/maze-generation/preview.png"
+  path: assets/img/posts/maze-generation/preview.webp
+  lqip: data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAACwAgCdASoUAAsAPzmGuVOvKSWisAgB4CcJaQAAeyAA/u4kygA=
   alt: A generated maze
 date: 2024-11-09 21:44 +0100
 ---

@@ -10,7 +10,8 @@ tags:
 - Cosmere
 description: 'My thoughts on Mistborn: The Bands of Mourning'
 image:
-  path: "/assets/img/posts/mistborn-the-bands-of-mourning/preview.jpg"
+  path: assets/img/posts/mistborn-the-bands-of-mourning/preview.webp
+  lqip: data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoUAAoAPzmGulQvKSWjMAgB4CcJZwAAXGyx/5nf90IpYAAA/oMTjX3mAV49F/NAaguvSyD7Rn/xoWcZigsjjVra9yybrwz78kIAMdAOckAAAA==
   alt: Bands of Mourning
 date: 2025-01-03 14:48 +0100
 ---

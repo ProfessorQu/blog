@@ -9,7 +9,8 @@ tags:
 - AI
 description: How I made a 3500 line Python file to play Tic Tac Toe
 image:
-  path: "/assets/img/posts/tic-tac-generator/preview.png"
+  path: assets/img/posts/tic-tac-generator/preview.webp
+  lqip: data:image/webp;base64,UklGRlQAAABXRUJQVlA4IEgAAADwAgCdASoUAAwAPzmEuVOvKKWisAgB4CcJZwAAQQkdYAD+6pIncLHnBLHChY+0iQxvODoMKrHhGbNleqFyUOa4QybAcecoAAA=
   alt: Tic Tac Toe
 date: 2024-12-11 21:49 +0100
 ---

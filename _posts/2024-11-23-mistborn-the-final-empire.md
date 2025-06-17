@@ -10,7 +10,8 @@ tags:
 - Cosmere
 description: 'A review or ramblings about Mistborn: The Final Empire'
 image:
-  path: "/assets/img/posts/mistborn-the-final-empire/preview.jpg"
+  path: assets/img/posts/mistborn-the-final-empire/preview.webp
+  lqip: data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADwAwCdASoUAAsAPzmGuVOvKSWisAgB4CcJagCdMoADT34jMxtx2ZKAAP7NTJE2CUN9DftCCFH6AZXWkHTh92P55gpbfAjs/jKN0aLbJvrs1twxvC4AAA==
   alt: Vin and Kelsier atop a roof in Luthadel
 date: 2024-11-23 21:41 +0100
 ---

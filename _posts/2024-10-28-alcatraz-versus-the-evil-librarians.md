@@ -9,7 +9,8 @@ tags:
 - Alcatraz versus
 description: A review of the book "Alcatraz versus the Evil Librarians"
 image:
-  path: /assets/img/posts/alcatraz-versus-the-evil-librarians/preview.jpg
+  path: assets/img/posts/alcatraz-versus-the-evil-librarians/preview.webp
+  lqip: data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwAwCdASoUAAoAPzmEuVOvKKWisAgB4CcJaAC7ABALmFNrvEBQAAD+n5Xfwa4oAuEJUcw89wK69bnRgWAeBOImwcRvp7mye/wgrzvyPjsBEreKqxgDUmsq330AAvKZf2YusHZJcnvoGVOK6crgAA==
   alt: Promotional art made for the book
 date: 2024-10-28 19:13 +0100
 ---

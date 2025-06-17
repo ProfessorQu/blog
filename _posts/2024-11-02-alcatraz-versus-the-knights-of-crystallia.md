@@ -9,7 +9,8 @@ tags:
 - Alcatraz versus
 description: A review of the book "Alcatraz versus the Knights of Crystallia"
 image:
-  path: /assets/img/posts/alcatraz-versus-the-knights-of-crystallia/preview.jpg
+  path: assets/img/posts/alcatraz-versus-the-knights-of-crystallia/preview.webp
+  lqip: data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAAAwBACdASoUAAsAPzmEuVOvKKWisAgB4CcJZACdMoACfYV3xmMW2+6cDIAA/Zux/DPbyggJ7dCrB0y7sQ62SwVgCdNLIDkXxKf/92pU9OH487eF0zwd+Iutt+QZ/R1o5Ycjc1ZJNksbi8y4boK9PqnuQAA=
   alt: Promotional art made for the book
 date: 2024-11-02 13:30 +0100
 ---

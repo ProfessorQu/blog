@@ -10,7 +10,8 @@ tags:
 - Cosmere
 description: 'A review or ramblings about Mistborn: The Well of Ascension'
 image:
-  path: "/assets/img/posts/mistborn-the-well-of-ascension/preview.jpg"
+  path: assets/img/posts/mistborn-the-well-of-ascension/preview.webp
+  lqip: data:image/webp;base64,UklGRk4AAABXRUJQVlA4IEIAAADQAwCdASoUAAkAPzmGulQvKSWjMAgB4CcJQBOgBFyflA0yEYQtlAAA/hUKnLfDMRHFntscWetqYFkhaTk2xqVhYAA=
   alt: Vin standing over defeated koloss
 date: 2024-11-30 15:21 +0100
 ---

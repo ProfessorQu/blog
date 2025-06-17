@@ -9,7 +9,8 @@ tags:
 - Decklist
 description: A decklist of my Rukarumel Rebel deck
 image:
-  path: /assets/img/posts/rukarumels-rebellion/rukarumel-art.jpg
+  path: assets/img/posts/rukarumels-rebellion/preview.webp
+  lqip: data:image/webp;base64,UklGRmYAAABXRUJQVlA4IFoAAADQAwCdASoUAA8APzmEuVOvKKWisAgB4CcJQBYdgvJBJQnx3mUXRWAAlQ+DOdaRfeIaNFoIo/IiSpdXXZs34ytzGqyowDypHde4nLgp6BycP//BLr+Y2OtRQAA=
   alt: The art of Rukarumel, Biologist
 date: 2024-10-27 15:57 +0100
 ---

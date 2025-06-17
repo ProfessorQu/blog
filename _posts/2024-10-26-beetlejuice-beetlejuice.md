@@ -9,7 +9,8 @@ tags:
 - Horror
 description: A review of the movie Beetlejuice Beetlejuice
 image:
-  path: /assets/img/posts/beetlejuice-beetlejuice/poster.jpg
+  path: assets/img/posts/beetlejuice-beetlejuice/preview.webp
+  lqip: data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAABQAwCdASoUAAsAPzmGuVOvKSWisAgB4CcJYwAAKmBdOXaYAAD+0ZTJepaFVZgPGjLHLkPytaVn4rZmu6dIzlIaS0z4+P9sbiAAAA==
   alt: A poster of the movie Beetlejuice Beetlejuice
 date: 2024-10-26 18:13 +0200
 ---

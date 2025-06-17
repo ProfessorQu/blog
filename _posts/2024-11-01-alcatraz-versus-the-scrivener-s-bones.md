@@ -9,7 +9,8 @@ tags:
 - Alcatraz versus
 description: A review of the book "Alcatraz versus the Scrivener's Bones"
 image:
-  path: /assets/img/posts/alcatraz-versus-the-scriveners-bones/preview.jpg
+  path: assets/img/posts/alcatraz-versus-the-scriveners-bones/preview.webp
+  lqip: data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAABQBACdASoUAA4APzmEuVOvKKWisAgB4CcJZACsEf/gQHamAD+Bz+yuEZWAAP68c8rSzpXSwAgA7S7XRO8qvkRjrwucuA1TaFR+BC+kju7E811oUYmWuGcoU4HBeWdNULuf9ZCuVCSP26+hoAA=
   alt: Promotional art made for the book
 date: 2024-11-01 21:30 +0100
 ---
