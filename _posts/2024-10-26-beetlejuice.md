@@ -10,7 +10,6 @@ tags:
 description: A review of the movie Beetlejuice
 image:
   path: assets/img/posts/beetlejuice/preview.webp
-  lqip: data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQAwCdASoUAAsAPzmGuVOvKSWisAgB4CcJbAAAV92Z5XYROXgcAP7abGkNvT9gLrWhVKtfEzf/3Vt5mRWeHamW+t1x4s+nxECFa3pnZOo9uxQ0lf2R2r8dURc5jP30YasMAAAA
   alt: A poster of the movie Beetlejuice
 date: 2024-10-26 12:47 +0200
 ---

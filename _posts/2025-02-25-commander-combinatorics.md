@@ -10,7 +10,6 @@ description: A calculation of the number of possible decks.
 math: true
 image:
   path: assets/img/posts/commander-combinatorics/preview.webp
-  lqip: data:image/webp;base64,UklGRkwAAABXRUJQVlA4IEAAAAAwAwCdASoUAA0APzmEuVOvKKWisAgB4CcJZQAAetHUT9YAAP7uQ0iJiwHOcL6fgV1heLkHi4H17r4PPue0ogAA
   alt: Some random math
 date: 2025-02-25 21:37 +0100
 ---

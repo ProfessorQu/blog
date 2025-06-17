@@ -10,7 +10,6 @@ tags:
 description: A review of the book "Alcatraz versus the Dark Talent"
 image:
   path: assets/img/posts/alcatraz-versus-the-dark-talent/preview.webp
-  lqip: data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABQAwCdASoUAA0APzmGuVOvKSWisAgB4CcJYgAADcdg4N0mAAD+qfUMLE0cD/EAdXeGWEvtGq4+utihjDCfLnn6IeYVVOhhVYHCv4UejhTSWiErdPaaMpX3eUJWC/gAAAA=
   alt: Promotional art made for the book
 date: 2024-11-09 23:05 +0100
 ---

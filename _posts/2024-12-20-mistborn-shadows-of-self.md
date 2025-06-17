@@ -11,7 +11,6 @@ tags:
 description: 'My thoughts on Mistborn: Shadows of Self'
 image:
   path: assets/img/posts/mistborn-shadows-of-self/preview.webp
-  lqip: data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAACwAwCdASoUAA0APzmGuVOvKSWisAgB4CcJaQAASASUAx/FBj7CAAD6NluXpz/tC03OapgJFgzE+haHEB47T04veWoLXVF+EbUT5F1zElLr0qvSXNCiOYElS33MkeUBCZmxSWZjXq7DyAAA
   alt: Marasi, Wax and Wayne
 date: 2024-12-20 19:24 +0100
 ---

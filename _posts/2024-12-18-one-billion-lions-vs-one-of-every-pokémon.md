@@ -9,7 +9,6 @@ tags:
 description: A breakdown on who would win
 image:
   path: assets/img/posts/one-billion-lions-vs-one-of-every-pokémon/preview.webp
-  lqip: data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAADQAwCdASoUAAsAPzmEuVOvKKWisAgB4CcJYgCxG1ABh+a4SO5W/HAA/F/tcmF5luV+DFkPft9osWwN+Ps2fWbtIVJQSPQKpQEiBYTmvicY7PvFstAAAA==
   alt: One of every Pokémon vs one billion lions
 date: 2024-12-18 21:58 +0100
 ---

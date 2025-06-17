@@ -11,7 +11,6 @@ tags:
 description: 'Ramblings about Mistborn: The Alloy of Law'
 image:
   path: assets/img/posts/mistborn-the-alloy-of-law/preview.webp
-  lqip: data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAADwAwCdASoUAAsAPzmIulQvKSWjMAgB4CcJQBOgBCqR7mKV8c5hiowAAP7ZE+e1B43cUJ5jbYCZ7YDLlkv8CfInXmmAAAAA
   alt: Wax in the mists
 date: 2024-12-14 18:10 +0100
 ---

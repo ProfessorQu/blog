@@ -11,7 +11,6 @@ tags:
 description: A catalog of all the Lenses and Talents in the Alcatraz versus series
 image:
   path: assets/img/posts/alcatraz-versus-lenses-and-talents/preview.webp
-  lqip: data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACQAwCdASoUAAoAPzmGulQvKSWjMAgB4CcJaQAAUljqvazXDgAAAP7nPuHka+PBCYMJai37I43ZBotEwPTeIxUgOw0rgAAA
   alt: Red-tinted glasses
 date: 2024-10-28 19:02 +0100
 ---

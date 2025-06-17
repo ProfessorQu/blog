@@ -11,7 +11,6 @@ description: A proof on how many words are in a set of all words
 math: true
 image:
   path: assets/img/posts/how-many-words-in-a-set-of-all-words/preview.webp
-  lqip: data:image/webp;base64,UklGRr4AAABXRUJQVlA4WAoAAAAQAAAAEwAACwAAQUxQSE8AAAABcBBJkiL5d3r3/MvQM/WMBiJiAvh3uQzwOzd3g5bmEqCmpoZOYSQsFKWOZaXYsePxHCilOkDNOQ2U6+7UovIEXGZmKFo45K7WeVFZVvlrAFZQOCBIAAAAMAMAnQEqFAAMAD85hrtTrykmIrAIAeAnCWkAAHrRE6ytgAD+7mYR+V/f0//M3vxQKHaVizGA2GiBHxOJncRFtuFWiKGDAAAA
   alt: What I'll try to prove
 date: 2024-11-13 21:19 +0100
 ---

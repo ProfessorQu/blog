@@ -10,7 +10,6 @@ tags:
 description: A review of the book "Bastille versus the Evil Librarians"
 image:
   path: assets/img/posts/bastille-versus-the-evil-librarians/preview.webp
-  lqip: data:image/webp;base64,UklGRnIAAABXRUJQVlA4IGYAAACwAwCdASoUAAoAPzmEuVOvKKWisAgB4CcJQBadAt2XfGhWJTkNYAD8gaMDZCKYmdYrCW9geKoUKAIXPcAz/zsvrmOg80mCB2+2VLWqAEzFaSv1Qgg8Thb+Z+rTqzvxmh7125eI2AA=
   alt: Promotional art made for the book
 date: 2024-11-10 15:10 +0100
 ---

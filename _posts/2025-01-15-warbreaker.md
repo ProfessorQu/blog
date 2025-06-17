@@ -10,7 +10,6 @@ tags:
 description: My thoughts on Warbreaker
 image:
   path: assets/img/posts/warbreaker/preview.webp
-  lqip: data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAAAQBACdASoUAA8APzmEuVOvKKWisAgB4CcJYgCzhagBLS+WdSQJ6kgAAAD+q62xtASIjBa+H18JH1CvNoT9f+get8HhZZaej552+B94NDyLUKB/Sm1W4lsXPJJeDWqPBatACv3Wk5bAn3dgAAA=
   alt: The God King and Siri
 date: 2025-01-15 21:48 +0100
 ---

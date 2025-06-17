@@ -11,7 +11,6 @@ tags:
 description: 'My thoughts about Mistborn: The Hero of Ages'
 image:
   path: assets/img/posts/mistborn-the-hero-of-ages/preview.webp
-  lqip: data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAACwAwCdASoUAAwAPzmGuVOvKSWisAgB4CcJQBdmUABR5mvP+J4DAADiKacdasL99frCmH3MiPZ4vTnam3N3mFNjTWc1x29di1C3LGcLwWdZ4C28gAA=
   alt: A multitude of scenes
 date: 2024-12-06 20:06 +0100
 ---

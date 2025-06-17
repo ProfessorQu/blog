@@ -9,7 +9,6 @@ tags:
 description: 'Statistics about Avatar: The Last Airbender'
 image:
   path: assets/img/posts/bending-the-numbers/preview.webp
-  lqip: data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADQAwCdASoUAAsAPzmGuVOvKSWisAgB4CcJbAC7ACDnwRscFwI/jgAA9rZVZzW8wXDKkxK5ZgOT87FaI6YzNODP5w86MnLe50Gy/jjEvEvufgAKa4rNqg232tP8RqmnIWVxAsANzd82kwuK9whOIMvBydnqzoAA
   alt: 'Promotional art for Avatar: The Last Airbender'
 date: 2024-12-17 18:23 +0100
 ---

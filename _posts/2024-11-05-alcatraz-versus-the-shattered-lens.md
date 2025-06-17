@@ -10,7 +10,6 @@ tags:
 description: A review of the book "Alcatraz versus the Shattered Lens"
 image:
   path: assets/img/posts/alcatraz-versus-the-shattered-lens/preview.webp
-  lqip: data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAAAQBACdASoUAA0APzmEuVOvKKWisAgB4CcJbACdMoADANKNwo6upRSDaAD+qeE5+hnjU1pz1/plljo4GXVUVMIMKGn7NXljGH38nuUBWR9nRB2Jd4BXo3VHUQH9GvBxjuSolvTZrt6orh4LYyFfj5aAzhoAAA==
   alt: Promotional art made for the book
 date: 2024-11-05 21:36 +0100
 ---

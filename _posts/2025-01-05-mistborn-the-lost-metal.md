@@ -11,7 +11,6 @@ tags:
 description: 'My thoughts on Mistborn: The Lost Metal'
 image:
   path: assets/img/posts/mistborn-the-lost-metal/preview.webp
-  lqip: data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAACwAwCdASoUAA0APzmEuVOvKKWisAgB4CcJZgC7ABxotgGWvOt1aAD+y+K5L7Waii0H8MqSAoHSROIv3DhI8OS9MlYlFOoAa9OxFDI3ByPlceMIkVfZOl5fFT+nQDKebw0QLN5NnjZECEUx4n+tjwtPZgE8wByzBp/L/P4BdruE8AAA
   alt: Last scene of The Lost Metal
 date: 2025-01-05 20:37 +0100
 ---
