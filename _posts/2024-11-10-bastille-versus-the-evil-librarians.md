@@ -9,7 +9,7 @@ tags:
 - Alcatraz versus
 description: A review of the book "Bastille versus the Evil Librarians"
 image:
-  path: assets/img/posts/bastille-versus-the-evil-librarians/preview.webp
+  path: /assets/img/posts/bastille-versus-the-evil-librarians/preview.jpg
   alt: Promotional art made for the book
 date: 2024-11-10 15:10 +0100
 ---

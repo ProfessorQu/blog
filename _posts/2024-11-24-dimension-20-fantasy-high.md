@@ -10,7 +10,7 @@ tags:
 - DnD
 description: Ramblings about the Dropout Fantasy High series
 image:
-  path: assets/img/posts/dimension-20-fantasy-high/preview.webp
+  path: /assets/img/posts/dimension-20-fantasy-high/preview.jpg
   alt: https://wallpaperwaifu.com/fantasy/mistborn-the-final-empire-live-wallpaper/
 date: 2024-11-24 18:57 +0100
 ---

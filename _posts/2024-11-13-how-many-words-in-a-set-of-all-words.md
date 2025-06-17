@@ -10,7 +10,7 @@ tags:
 description: A proof on how many words are in a set of all words
 math: true
 image:
-  path: assets/img/posts/how-many-words-in-a-set-of-all-words/preview.webp
+  path: /assets/img/posts/how-many-words-in-a-set-of-all-words/preview.png
   alt: What I'll try to prove
 date: 2024-11-13 21:19 +0100
 ---

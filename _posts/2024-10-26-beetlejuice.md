@@ -9,7 +9,7 @@ tags:
 - Horror
 description: A review of the movie Beetlejuice
 image:
-  path: assets/img/posts/beetlejuice/preview.webp
+  path: /assets/img/posts/beetlejuice/preview.jpg
   alt: A poster of the movie Beetlejuice
 date: 2024-10-26 12:47 +0200
 ---

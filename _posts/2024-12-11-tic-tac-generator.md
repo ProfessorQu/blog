@@ -9,7 +9,7 @@ tags:
 - AI
 description: How I made a 3500 line Python file to play Tic Tac Toe
 image:
-  path: assets/img/posts/tic-tac-generator/preview.webp
+  path: /assets/img/posts/tic-tac-generator/preview.png
   alt: Tic Tac Toe
 date: 2024-12-11 21:49 +0100
 ---

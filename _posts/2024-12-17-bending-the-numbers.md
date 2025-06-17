@@ -8,7 +8,7 @@ tags:
 - Technical
 description: 'Statistics about Avatar: The Last Airbender'
 image:
-  path: assets/img/posts/bending-the-numbers/preview.webp
+  path: /assets/img/posts/bending-the-numbers/preview.jpg
   alt: 'Promotional art for Avatar: The Last Airbender'
 date: 2024-12-17 18:23 +0100
 ---

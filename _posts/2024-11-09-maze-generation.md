@@ -10,7 +10,7 @@ tags:
 - Mazes
 description: Some maze generation algorithms
 image:
-  path: assets/img/posts/maze-generation/preview.webp
+  path: /assets/img/posts/maze-generation/preview.png
   alt: A generated maze
 date: 2024-11-09 21:44 +0100
 ---

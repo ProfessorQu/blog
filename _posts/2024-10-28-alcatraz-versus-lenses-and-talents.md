@@ -10,7 +10,7 @@ tags:
 - Alcatraz versus
 description: A catalog of all the Lenses and Talents in the Alcatraz versus series
 image:
-  path: assets/img/posts/alcatraz-versus-lenses-and-talents/preview.webp
+  path: /assets/img/posts/alcatraz-versus-lenses-and-talents/preview.jpg
   alt: Red-tinted glasses
 date: 2024-10-28 19:02 +0100
 ---

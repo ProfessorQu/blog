@@ -9,7 +9,7 @@ tags:
 - Cosmere
 description: My thoughts on Warbreaker
 image:
-  path: assets/img/posts/warbreaker/preview.webp
+  path: /assets/img/posts/warbreaker/preview.jpg
   alt: The God King and Siri
 date: 2025-01-15 21:48 +0100
 ---

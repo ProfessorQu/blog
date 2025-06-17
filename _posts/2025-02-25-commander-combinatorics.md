@@ -9,7 +9,7 @@ tags:
 description: A calculation of the number of possible decks.
 math: true
 image:
-  path: assets/img/posts/commander-combinatorics/preview.webp
+  path: /assets/img/posts/commander-combinatorics/preview.jpg
   alt: Some random math
 date: 2025-02-25 21:37 +0100
 ---

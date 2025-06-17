@@ -9,7 +9,7 @@ tags:
 - Alcatraz versus
 description: A review of the book "Alcatraz versus the Shattered Lens"
 image:
-  path: assets/img/posts/alcatraz-versus-the-shattered-lens/preview.webp
+  path: /assets/img/posts/alcatraz-versus-the-shattered-lens/preview.jpg
   alt: Promotional art made for the book
 date: 2024-11-05 21:36 +0100
 ---

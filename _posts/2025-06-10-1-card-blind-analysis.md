@@ -6,7 +6,7 @@ tags:
 - Magic the Gathering
 description: An analysis of some decks for the 1 card blind format.
 image:
-  path: /assets/img/posts/1-card-blind-analysis/preview.webp
+  path: /assets/img/posts/1-card-blind-analysis/preview.jpg
   alt: The avatar of the YouTube channel 'MTG 3 Card Blind'
 date: 2025-06-10 22:07 +0200
 ---

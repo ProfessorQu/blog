@@ -10,7 +10,7 @@ tags:
 - Cosmere
 description: 'My thoughts about Mistborn: The Hero of Ages'
 image:
-  path: assets/img/posts/mistborn-the-hero-of-ages/preview.webp
+  path: /assets/img/posts/mistborn-the-hero-of-ages/preview.jpg
   alt: A multitude of scenes
 date: 2024-12-06 20:06 +0100
 ---

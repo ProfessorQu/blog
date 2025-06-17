@@ -10,7 +10,7 @@ tags:
 - Cosmere
 description: 'Ramblings about Mistborn: The Alloy of Law'
 image:
-  path: assets/img/posts/mistborn-the-alloy-of-law/preview.webp
+  path: /assets/img/posts/mistborn-the-alloy-of-law/preview.jpg
   alt: Wax in the mists
 date: 2024-12-14 18:10 +0100
 ---

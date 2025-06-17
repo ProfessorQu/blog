@@ -10,7 +10,7 @@ tags:
 - Cosmere
 description: 'My thoughts on Mistborn: The Lost Metal'
 image:
-  path: assets/img/posts/mistborn-the-lost-metal/preview.webp
+  path: /assets/img/posts/mistborn-the-lost-metal/preview.jpg
   alt: Last scene of The Lost Metal
 date: 2025-01-05 20:37 +0100
 ---

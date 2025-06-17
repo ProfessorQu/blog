@@ -10,7 +10,7 @@ tags:
 - Cosmere
 description: 'My thoughts on Mistborn: Shadows of Self'
 image:
-  path: assets/img/posts/mistborn-shadows-of-self/preview.webp
+  path: /assets/img/posts/mistborn-shadows-of-self/preview.jpg
   alt: Marasi, Wax and Wayne
 date: 2024-12-20 19:24 +0100
 ---

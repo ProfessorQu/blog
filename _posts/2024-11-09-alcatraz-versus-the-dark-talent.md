@@ -9,7 +9,7 @@ tags:
 - Alcatraz versus
 description: A review of the book "Alcatraz versus the Dark Talent"
 image:
-  path: assets/img/posts/alcatraz-versus-the-dark-talent/preview.webp
+  path: /assets/img/posts/alcatraz-versus-the-dark-talent/preview.jpg
   alt: Promotional art made for the book
 date: 2024-11-09 23:05 +0100
 ---

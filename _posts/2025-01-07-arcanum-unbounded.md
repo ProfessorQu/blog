@@ -9,7 +9,7 @@ tags:
 - Cosmere
 description: My thoughts on the stories in Arcanum Unbounded
 image:
-  path: assets/img/posts/arcanum-unbounded/preview.webp
+  path: /assets/img/posts/arcanum-unbounded/preview.jpg
   alt: Constellations containing all the world of the Cosmere
 date: 2025-01-07 20:25 +0100
 ---
