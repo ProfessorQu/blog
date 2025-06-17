@@ -9,8 +9,7 @@ image:
   path: "/assets/img/posts/commander-without-color-identities/preview.jpg"
   alt: 'The five Magic: the Gathering colors'
 ---
-
-{% include card_previews.html %}
+{% include card-previews.html %}
 
 ## Introduction
 
@@ -221,7 +220,7 @@ Then we have some very powerful creatures, like {% card Absolute Virtue %} which
 ![Bolas's Citadel]
 {% endcards %}
 
-Braids can put more stuff on the board than just creatures: lands! I'm kidding, those are not very useful as you can play those anyway, but there are a few powerful artifacts. Most powerful artifacts are colorless so this is not one of the categories that gets much more powerful, like creatures. But it's still very strong. Like {% card The Great Henge %} which you could also play after getting some strong creatures but if you don't have those yet you can prepare for them with The Great Henge. {% card Parhelion II %} is a very strong vehicle that is often cheated out in {% card Greasefang, Obika Boss %} decks and the two Angels it generates make it very powerful. And {% card Bolas's Citadel %} is a favourite of mine but also very strong if you can cheat it out and then pay a bunch of life for a bunch of big creatures.
+Braids can put more stuff on the board than just creatures: lands! I'm kidding, those are not very useful as you can play those anyway, but there are a few powerful artifacts. Most powerful artifacts are colorless so this is not one of the categories that gets much more powerful, like creatures. But it's still very strong. Like {% card The Great Henge %} which you could also play after getting some strong creatures but if you don't have those yet you can prepare for them with The Great Henge. {% card Parhelion II %} is a very strong vehicle that is often cheated out in {% card Greasefang, Okiba Boss %} decks and the two Angels it generates make it very powerful. And {% card Bolas's Citadel %} is a favourite of mine but also very strong if you can cheat it out and then pay a bunch of life for a bunch of big creatures.
 
 ## Black
 

@@ -18,6 +18,8 @@ module Jekyll
         img_url = json_resp['image_uris']['normal']
 
         "<a class='card-link' href='#{url}'>#{@card_name}<img src='#{img_url}' class='card-img' alt=\"#{@card_name}\"></a>"
+      else
+        raise "Card not found: #{@card_name}"
       end
     end
   end
@@ -38,7 +40,7 @@ module Jekyll
         if res.is_a?(Net::HTTPSuccess)
           img_url = JSON.parse(res.body)['image_uris']['large']
         else
-          img_url = img.match(/\((.*)\)/).captures.first
+          img_url = img.clone.match(/\((.*)\)/).captures.first
         end
 
         content += "<img src='#{img_url}' alt=\"#{name}\" class='card-img' loading='lazy'>"
